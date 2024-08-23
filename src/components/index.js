@@ -1,0 +1,10 @@
+export { default as Contact } from "./Contact.jsx";
+export { default as Education } from "./Education.jsx";
+export { default as Experience } from "./Experience.jsx";
+export { default as Footer } from "./Footer.jsx";
+export { default as ProjectDetails } from "./ProjectDetails.jsx";
+export { default as Skills } from "./Skills.jsx";
+export { default as Projects } from "./Projects/Projects.jsx";
+export { default as Navbar } from "./Navbar/index.js";
+export { default as HeroSection } from "./HeroSection/HeroSection.jsx";
+// export { default as HeroBgAnimation } from "./HeroBgAnimation/index.js";
